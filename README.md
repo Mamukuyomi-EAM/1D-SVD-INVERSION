@@ -1,4 +1,4 @@
-# CAGEO-1D-IVA
+# 1D-SVD-INVERSION
 Overview of the 1D VES Forward Modelling & Inversion Toolkit
 Using the Schlumberger electrode configuration, this repository offers a Python-based implementation for forward modelling and inversion of Vertical Electrical Sounding (VES) data. 
 
